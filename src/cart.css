@@ -1,0 +1,37 @@
+.cart-info {
+    height: 100%;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    align: middle;
+}
+
+.cart-image {
+
+    height: 400px;
+    width: 100%;
+}
+
+.cart-div {
+    margin-top: 40px;
+    padding-top: 40px;
+
+
+}
+
+.cart-heading {
+
+    margin-bottom: 30px;
+}
+
+.cart-content {
+
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+icon-size {
+
+    font-size: 20px;
+    color: white;
+}
