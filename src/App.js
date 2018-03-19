@@ -13,14 +13,7 @@ class App extends Component {
     return (
       <div>
           <Routes />
-          {/*<Landing />*/}
-          {/*<Cart />*/}
-          {/*<div className='container-fluid'>*/}
 
-
-          {/*</div>*/}
-          {/*<Product />*/}
-          {/*<Footer />*/}
       </div>
     );
   }

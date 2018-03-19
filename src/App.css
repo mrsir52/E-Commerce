@@ -3,18 +3,18 @@
 }
 
 
-.main-section {
+/*.main-section {*/
 
-  background: url("./topimg.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
+  /*background: url("./images/background.jpg");*/
+  /*background-size: cover;*/
+  /*background-position: center;*/
+  /*height: 100vh;*/
 
-  padding-bottom: 25px;
-  margin-bottom: 25px;
+  /*padding-bottom: 25px;*/
+  /*margin-bottom: 25px;*/
 
 
-}
+/*}*/
 
 .main-button-div {
 

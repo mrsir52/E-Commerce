@@ -48,10 +48,10 @@ export default class extends React.Component {
                                     <CardImage className="img-fluid" src="" />
                                     <CardBody>
                                         <h2>H20 Ninja</h2>
-                                        <h2>Full Face Snorkel</h2>
+
                                         <br/>
                                         <a href="/Cart">
-                                        <Button size="lg"color="primary">Buy Now</Button>
+                                        <Button size="md"color="primary">Buy Now</Button>
                                         </a>
                                         <h3>$49.95</h3>
                                         <h4><strike>$79.95</strike></h4>
