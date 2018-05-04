@@ -99,30 +99,7 @@ export default class extends React.Component {
                     </Carousel>
                     <div className='col-7 '>
                     </div>
-
-                    {/*<div className="col-5 main-button-div">*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-                        {/*<br/>*/}
-
-                        {/*<a href="/Product">*/}
-                            {/*<Button size="md" outline color="white">Learn More</Button>*/}
-                        {/*</a>*/}
-                        {/*<a href="/Cart">*/}
-                            {/*<Button size="md" color="elegant"><strong>Buy Now</strong></Button>*/}
-                        {/*</a>*/}
-                    {/*</div>*/}
                 </section>
-
-
                 <section className="vid-section container">
                     <div className="row justify-content-around">
                         <div className="col col-lg-auto">
@@ -139,8 +116,6 @@ export default class extends React.Component {
                     </div>
                 </section>
                 <FooterPage/>
-
-                <CartTable/>
             </div>
         )
     }
